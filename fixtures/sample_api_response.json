@@ -1,0 +1,62 @@
+{
+  "listings": [
+    {
+      "listing": {
+        "id": "12345",
+        "title": "Apartamento mobiliado em Pinheiros",
+        "usableAreas": [80],
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parkingSpaces": 1,
+        "furnished": true,
+        "address": {
+          "street": "Rua dos Pinheiros",
+          "neighborhood": "Pinheiros",
+          "city": "São Paulo",
+          "state": "SP"
+        },
+        "pricingInfos": [
+          {
+            "businessType": "RENTAL",
+            "rentalTotalPrice": "4800",
+            "price": "4500",
+            "monthlyCondoFee": "600"
+          }
+        ],
+        "url": "https://www.zapimoveis.com.br/imovel/12345"
+      }
+    },
+    {
+      "listing": {
+        "listingId": "67890",
+        "advertiseTitle": "Apartamento amplo em Moema",
+        "usableAreas": 100,
+        "rooms": 3,
+        "bathrooms": 3,
+        "parkingSpaces": 2,
+        "amenities": ["Piscina", "Academia"],
+        "features": ["Varanda"],
+        "address": {
+          "street": "Avenida Ibirapuera",
+          "neighborhood": "Moema",
+          "city": "São Paulo",
+          "state": "SP"
+        },
+        "pricingInfos": [
+          {
+            "businessType": "SALE",
+            "price": "1000000"
+          },
+          {
+            "businessType": "RENTAL",
+            "price": "6000",
+            "monthlyCondoFee": "800"
+          }
+        ],
+        "link": {
+          "href": "https://www.zapimoveis.com.br/imovel/67890"
+        }
+      }
+    }
+  ]
+}
